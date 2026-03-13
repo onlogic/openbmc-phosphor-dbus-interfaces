@@ -13,9 +13,6 @@ enumerations:
       description: >
           Possible types of a boot image.
       values:
-          - name: Legacy
-            description: >
-                PC compatible boot.
           - name: EFI
             description: >
                 Extensible Firmware Interface Boot.
